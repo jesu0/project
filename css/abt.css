@@ -1,0 +1,6 @@
+.main {
+    width: 100%;
+    height: 500vh;
+    background: #0f8a9d;
+    background: linear-gradient(57deg, red , #1E4D92 ); 
+    clip-path: polygon(0% 0%, 100% 0%, 100% 80%, 0% 100%);
